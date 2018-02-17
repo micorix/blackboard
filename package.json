@@ -1,0 +1,10 @@
+{
+  "name": "blackboard",
+  "version": "1.0.0",
+  "description": "Learning tool for small organization based on Github API",
+  "main": "index.js",
+  "repository": "https://github.com/micorix/blackboard",
+  "author": "micorix",
+  "license": "MIT",
+  "private": true
+}
